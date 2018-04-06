@@ -26,8 +26,8 @@
     "react",
     "native"
   ],
-  "files": ["lib"],
-  "main": "lib/main",
+  "files": ["src"],
+  "main": "src/index.js",
   "module": "lib/module",
   "engines": {
     "node": ">=6.10"
